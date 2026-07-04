@@ -4,6 +4,12 @@
 
 Openpedia provides a wealth of useful resources that enable you to become a seasoned open source contributor. If you want to leave your mark in the world of open source, this project is a great fit for you.
 
+**Live Website:** [Openpedia](https://openpedia.netlify.app/)
+
+> **Status:** This project is now archived and no longer actively maintained. The current version remains available for use and reference. Thank you to everyone who contributed and helped shape the project into what it is today.
+
+---
+
 ## 🧾 Table of Contents
 
 - [Introduction to Open Source](#-introduction-to-open-source)
